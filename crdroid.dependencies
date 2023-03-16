@@ -1,0 +1,6 @@
+[
+  {
+    "repository": "android_device_googe_redfin",
+    "target_path": "device/google/redfin"
+  }
+]
